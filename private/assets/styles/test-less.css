@@ -1,0 +1,7 @@
+body {
+  color: green;
+}
+body p {
+  color: #ff0000;
+  box-sizing: border-box;
+}
